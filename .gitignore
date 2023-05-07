@@ -1,0 +1,6 @@
+/target
+/Cargo.lock
+/rust-idea.iml
+/.idea/
+/src/clipboard_tool/target/
+/src/clipboard_tool/Cargo.lock
