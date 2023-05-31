@@ -4,3 +4,4 @@
 /.idea/
 /src/clipboard_tool/target/
 /src/clipboard_tool/Cargo.lock
+/src/video_tool/Cargo.lock
